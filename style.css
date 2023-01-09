@@ -4,8 +4,8 @@
 body{
     display:flex;
     flex-direction:column;
-    height:100vh;
-
+    height:100%;
+    
 
 }
 .header{
@@ -37,6 +37,7 @@ flex:1;
 display:flex;
 margin-top:12%;
 flex-direction:column;
+align-items: center;
 
 }
 .main-body img{
